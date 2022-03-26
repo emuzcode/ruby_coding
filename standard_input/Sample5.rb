@@ -1,25 +1,23 @@
 # Input 10 integers separated by half-width spaces
 
-randomInt = Array.new(10)
+givenValue = "1 2 3 4 5 6 7 8 9 10"
 
-10.times do |i|
-  randomInt[i] = ('0'..'9').to_a.shuffle[0..5].join.to_i
-end
-
-randomInt.each do |t|
-  puts t
+array = givenValue.split(' ').map(&:to_i)
+array.each do |a|
+  puts a
 end
 
 =begin
 >> ruby Sample5.rb
-427106
-906534
-470169
-601832
-362475
-498235
-925147
-324578
-456938
-391604
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
 =end
