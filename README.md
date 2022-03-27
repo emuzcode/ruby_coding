@@ -27,3 +27,5 @@
 ##### Sample8 =  Input of N real numbers given in the first line
 
 ##### Sample9 =  Choose from a pair of strings and integers
+
+##### Sample10 =  Input an integer column with a different number of elements for each row
