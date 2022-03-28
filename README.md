@@ -33,3 +33,5 @@
 ## standard_output
 
 ##### Sample1 = output of 100 lines
+
+##### Sample2 = output of 100 numbers
