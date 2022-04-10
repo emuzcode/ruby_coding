@@ -43,3 +43,5 @@
 ##### Sample5 = Output large numbers of line every 3 digits, separated by commas, without indent of end of line
 
 ##### Sample6 = 九九の表
+
+##### Sample6b = Output of N * N multiplication table
