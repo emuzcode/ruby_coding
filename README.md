@@ -24,11 +24,11 @@
 
 ##### Sample7 = Input of N strings given in the first line
 
-##### Sample8 =  Input of N real numbers given in the first line
+##### Sample8 = Input of N real numbers given in the first line
 
-##### Sample9 =  Choose from a pair of strings and integers
+##### Sample9 = Choose from a pair of strings and integers
 
-##### Sample10 =  Input an integer column with a different number of elements for each row
+##### Sample10 = Input an integer column with a different number of elements for each row
 
 ## standard_output
 
@@ -44,4 +44,6 @@
 
 ##### Sample6 = 九九の表
 
-##### Sample6b = Output of N * N multiplication table
+##### Sample6b = Output of N \* N multiplication table
+
+##### Sample6c = Output of a two-dimensional array with indefinite length and values ​​for all rows
